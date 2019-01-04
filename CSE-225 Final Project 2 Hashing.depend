@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1545205136 source:e:\cse-225 final project 2 hashing\main.cpp
+	<iostream>
+	<string>
+	<vector>
+	<sstream>
+	<unordered_map>
+	<fstream>
+	<algorithm>
+
